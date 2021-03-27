@@ -4742,6 +4742,10 @@ h6 {
 }
 
 @media (max-width: 575px) {
+  .footer-bottom {
+    position: unset;
+  }
+
   .footer-bottom .container {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;

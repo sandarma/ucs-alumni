@@ -4,7 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import NavLinks from "./nav-links";
 
 import flag1 from "../../assets/images/resources/flag-1-1.jpg";
-import logoDark from "../../assets/images/logo-dark.png";
+import logoUCS from "../../assets/images/UCS-Financial-Support-Icon.jpeg";
 
 const HeaderOne = () => {
   useEffect(() => {
@@ -55,7 +55,7 @@ const HeaderOne = () => {
               <div className="logo-box">
                 <Link href="/">
                   <a aria-label="logo image">
-                    <img src={logoDark} width="101" alt="" />
+                    <img src={logoUCS} width="101" alt="" />
                   </a>
                 </Link>
                 <span className="fa fa-bars mobile-nav__toggler"></span>
@@ -69,8 +69,8 @@ const HeaderOne = () => {
               className="d-none d-md-none d-lg-none d-xl-block"
             >
               <div className="main-header__top">
-                <p>Welcome to non profit charity platform</p>
-                <div className="main-header__social">
+                <p>Welcome To University of Computer Studies - Alumni</p>
+                {/* <div className="main-header__social">
                   <a href="#" aria-label="twitter">
                     <i className="fab fa-twitter"></i>
                   </a>
@@ -83,24 +83,28 @@ const HeaderOne = () => {
                   <a href="#" aria-label="instagram">
                     <i className="fab fa-instagram"></i>
                   </a>
-                </div>
+                </div> */}
               </div>
-              <nav className="main-menu dynamic-radius">
+              {/* <nav className="main-menu dynamic-radius">
                 <NavLinks />
-              </nav>
+              </nav> */}
 
               <div className="main-header__info">
                 <ul className="list-unstyled main-header__info-list">
                   <li>
+                    <i className="fab fa-facebook-square"></i>
+                    <a href="https://www.facebook.com/FinancialSupportUCS2021">Financial Support - UCS</a>
+                  </li>                
+                  {/* <li>
                     <i className="azino-icon-email"></i>
                     <a href="mailto:needhelp@azino.com">needhelp@azino.com</a>
                   </li>
                   <li>
                     <i className="azino-icon-telephone"></i>
                     <a href="tel:666-888-0000">666 888 0000</a>
-                  </li>
+                  </li> */}
                 </ul>
-                <div className="main-header__language">
+                {/* <div className="main-header__language">
                   <div className="main-header__language-image">
                     <img src={flag1} alt="" />
                   </div>
@@ -115,7 +119,7 @@ const HeaderOne = () => {
                     className="fa fa-angle-down
                   "
                   ></i>
-                </div>
+                </div> */}
               </div>
             </Col>
           </Row>

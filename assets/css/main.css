@@ -1849,11 +1849,11 @@ h6 {
   overflow: hidden;
 }
 
-@media (min-width: 1200px) {
+/* @media (min-width: 1200px) {
   .container {
     max-width: 1200px;
   }
-}
+} */
 
 .thm-btn {
   display: inline-block;
@@ -2447,13 +2447,13 @@ h6 {
 
 @media (max-width: 1199px) {
   .main-header {
-    background-color: #fff;
+    background-color: #01729a;
     position: relative;
   }
 }
 
 .main-header .inner-container {
-  background-color: #fff;
+  background-color: #01729a;
   border-bottom-right-radius: 10px;
   position: relative;
   z-index: 10;
@@ -2463,7 +2463,7 @@ h6 {
   content: "";
   position: absolute;
   width: 100000px;
-  background-color: #fff;
+  background-color: #01729a;
   border-bottom-right-radius: 10px;
   top: 0;
   right: 0;
@@ -2627,7 +2627,7 @@ h6 {
   -webkit-box-pack: center;
   -ms-flex-pack: center;
   justify-content: center;
-  color: #fff;
+  color: #01729a;
   background-color: var(--thm-base);
   font-size: 16px;
   margin-right: 10px;
@@ -4720,6 +4720,10 @@ h6 {
 
 .footer-bottom {
   background-color: var(--thm-black2);
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
 }
 
 .footer-bottom .container {
@@ -4832,8 +4836,8 @@ h6 {
 }
 
 .footer-social a:hover {
-  background-color: #fff;
-  color: var(--thm-secondary);
+  /* background-color: #fff;
+  color: var(--thm-secondary); */
 }
 
 .footer-social a:nth-child(2) {

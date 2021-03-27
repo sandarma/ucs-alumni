@@ -7,7 +7,18 @@ import causeImage1 from "../../assets/images/causes/cause-1-1.jpg";
 import causeImage2 from "../../assets/images/causes/cause-1-4.jpg";
 import causeImage3 from "../../assets/images/causes/cause-1-3.jpg";
 
+import springRevolutionMyanamr from "../../assets/images/Spring-Revolution-Cover.jpg";
+
 const CausesHomeData = [
+  {
+    image: springRevolutionMyanamr,
+    progressCount: 23,
+    raised: "25,270",
+    goal: "30,000",
+    title: "Our donation is hope for Spring Revolution",
+    text: "Lorem Ipsum simply dummy text of printng and type industry.",
+    link: "/cause-details"
+  },
   {
     image: causeImage1,
     progressCount: 23,
@@ -83,16 +94,14 @@ const CausesHome = () => {
                 Popular Causes
               </p>
               <h3>
-                Donate to charity causes <br /> around the world.
+                Donate for Mar 2021
               </h3>
             </div>
           </Col>
           <Col lg={5} className=" d-flex">
             <div className="my-auto">
               <p className="block-text pr-10 mb-0">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Have you done google research which works all the
-                time.{" "}
+                Thank You! We would like to express our deep gratitude towards your generous donations for supporting Myanmar's Spring Revolution.
               </p>
             </div>
           </Col>

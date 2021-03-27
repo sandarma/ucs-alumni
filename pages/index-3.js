@@ -18,19 +18,15 @@ import CallToAction from "../components/call-to-action/call-to-action";
 import GoogleMap from "../components/google-map";
 import BrandCarousel from "../components/brand-carousel";
 import Footer from "../components/footer";
-import FeaturedCause from "../components/featured-cause";
 
-const HomeOne = () => {
+const HomeOneCopy = () => {
   return (
-    <Layout pageTitle="Home || University of Computer Studies">
-      {/* <HeaderOne />
+    <Layout pageTitle="Home One || Azino || Charity React Next Template">
+      <HeaderOne />
       <StickyHeader />
-      <MainSlider /> */}
-      <br/>
-      <FeaturedCause />
-      <br/>
-      {/* <VideoCardTwo />      
-      <ServiceOne />      
+      <MainSlider />
+      <VideoCardTwo />
+      <ServiceOne />
       <AboutCounter />
       <CausesHome />
       <CallToActionTwo />
@@ -43,10 +39,10 @@ const HomeOne = () => {
       <BlogHome />
       <CallToAction />
       <GoogleMap extraClass="home" />
-      <BrandCarousel extraClass="client-carousel__has-top-shadow" /> */}
+      <BrandCarousel extraClass="client-carousel__has-top-shadow" />
       <Footer />
     </Layout>
   );
 };
 
-export default HomeOne;
+export default HomeOneCopy;

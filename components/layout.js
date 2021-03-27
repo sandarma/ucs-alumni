@@ -7,6 +7,8 @@ import AppleTouch from "../assets/images/favicons/apple-touch-icon.png";
 import Fevicon32 from "../assets/images/favicons/favicon-32x32.png";
 import Fevicon16 from "../assets/images/favicons/favicon-16x16.png";
 
+import Fevicon from "../assets/images/UCS-Financial-Support-Icon.jpeg";
+
 const Layout = ({ pageTitle, children }) => {
   const handleRadius = () => {
     const dynamicRadius = document.querySelectorAll(".dynamic-radius");
@@ -28,9 +30,9 @@ const Layout = ({ pageTitle, children }) => {
       <Head>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>{pageTitle}</title>
-        <link rel="apple-touch-icon" sizes="180x180" href={AppleTouch} />
-        <link rel="icon" type="image/png" sizes="32x32" href={Fevicon32} />
-        <link rel="icon" type="image/png" sizes="16x16" href={Fevicon16} />
+        <link rel="apple-touch-icon" sizes="180x180" href={Fevicon} />
+        <link rel="icon" type="image/png" sizes="32x32" href={Fevicon} />
+        <link rel="icon" type="image/png" sizes="16x16" href={Fevicon} />
         <link
           href="https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap"
           rel="stylesheet"
@@ -39,8 +41,8 @@ const Layout = ({ pageTitle, children }) => {
       <div className="page-wrapper" id="wrapper">
         {children}
       </div>
-      <MobileNav />
-      <SearchPopup />
+      {/* <MobileNav />
+      <SearchPopup /> */}
     </div>
   );
 };

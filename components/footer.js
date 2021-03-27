@@ -9,7 +9,7 @@ import blogPost2 from "../assets/images/resources/footer-img-1-2.jpg";
 const Footer = () => {
   return (
     <section className="site-footer">
-      <div className="main-footer pt-142 pb-80">
+      {/* <div className="main-footer pt-142 pb-80">
         <Container>
           <Row>
             <Col lg={3} md={6} sm={12}>
@@ -153,31 +153,31 @@ const Footer = () => {
             </Col>
           </Row>
         </Container>
-      </div>
+      </div> */}
       <div className="footer-bottom">
         <div className="container">
-          <ScrollLink
+          {/* <ScrollLink
             to="wrapper"
             smooth={true}
             duration={500}
             className="scroll-to-top"
           >
             <i className="far fa-angle-up"></i>
-          </ScrollLink>
-          <p>© Copyright 2020 by Layerdrops.com</p>
+          </ScrollLink> */}
+          <p>© Copyright 2021 by UCS Alumni</p>
           <div className="footer-social">
-            <a href="#" aria-label="twitter">
+            {/* <a href="#" aria-label="twitter">
               <i className="fab fa-twitter"></i>
-            </a>
-            <a href="#" aria-label="facebook">
+            </a> */}
+            <a href="https://www.facebook.com/FinancialSupportUCS2021" aria-label="facebook" style={{backgroundColor: "#3b5998"}}>
               <i className="fab fa-facebook-square"></i>
             </a>
-            <a href="#" aria-label="pinterest">
+            {/* <a href="#" aria-label="pinterest">
               <i className="fab fa-pinterest-p"></i>
             </a>
             <a href="#" aria-label="instagram">
               <i className="fab fa-instagram"></i>
-            </a>
+            </a> */}
           </div>
         </div>
       </div>

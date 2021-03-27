@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import causeImage from "../assets/images/resources/featured-cause.jpg";
+import springRevolutionMyanamr from "../assets/images/Spring-Revolution-Cover.jpg";
+
 const FeaturedCause = () => {
   return (
     <section className="featured-cause">
@@ -8,29 +9,28 @@ const FeaturedCause = () => {
         <div className="inner-container background-secondary ">
           <Row>
             <Col lg={4}>
-              <img src={causeImage} className="img-fluid" alt="" />
+              <img src={springRevolutionMyanamr} className="img-fluid" alt="" />
             </Col>
             <Col lg={8} className=" d-flex">
               <div className="my-auto">
                 <h3>Urgent help needed now </h3>
                 <p>
-                  Lorem Ipsum is simply dummy text of the printing and
-                  typesetting industry.
+                  Thank You! We would like to express our deep gratitude towards your generous donations for supporting Myanmar's Spring Revolution.
                 </p>
                 <div className="cause-card__top">
                   <div className="cause-card__progress">
-                    <span style={{ width: `85%` }} className=" cardProgress">
+                    <span style={{ width: `50%` }} className=" cardProgress">
                       <b>
-                        <i>85</i>%
+                        <i>50</i>%
                       </b>
                     </span>
                   </div>
                   <div className="cause-card__goals">
                     <p>
-                      <strong>Raised:</strong> $25,270
+                      <strong>Raised:</strong> $35,000,000
                     </p>
                     <p>
-                      <strong>Goal:</strong> $30,000
+                      <strong>Goal:</strong> $70,000,000
                     </p>
                   </div>
                 </div>

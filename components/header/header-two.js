@@ -3,8 +3,7 @@ import Link from "next/link";
 import { Container } from "react-bootstrap";
 import NavLinks from "./nav-links";
 
-import flag1 from "../../assets/images/resources/flag-1-1.jpg";
-import logoDark from "../../assets/images/logo-dark.png";
+import logoUcsFs from "../../assets/images/UCS-Financial-Support-fb-profile.jpeg";
 
 const HeaderTwo = () => {
   useEffect(() => {
@@ -72,7 +71,7 @@ const HeaderTwo = () => {
           <div className="logo-box">
             <Link href="/">
               <a aria-label="logo image">
-                <img src={logoDark} width="101" alt="" />
+                <img src={logoUcsFs} width="101" alt="" />
               </a>
             </Link>
             <span className="fa fa-bars mobile-nav__toggler"></span>

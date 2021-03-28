@@ -3,7 +3,10 @@ import ModalVideo from "react-modal-video";
 import { Container, Row, Col } from "react-bootstrap";
 import videoBg from "../../assets/images/shapes/video-bg-1-1.png";
 import videoImage from "../../assets/images/resources/video-1-1.png";
+import ucsFsFbCover from "../../assets/images/UCSFS-fb-cover.jpeg";
 import logoUCS from "../../assets/images/UCS-Financial-Support-Icon.jpeg";
+import IMG_6792 from "../../assets/images/IMG_6792.jpeg";
+
 
 const VideoCardTwo = () => {
   const [isOpen, setOpen] = useState(false);
@@ -24,7 +27,7 @@ const VideoCardTwo = () => {
           <Row className="align-items-center">
             <Col lg={3}>
               <div className="video-card-two__box">
-                <img src={logoUCS} alt="" style={{width: 250, height: 250}}/>
+                <img src={IMG_6792} alt="" style={{width: 250, height: 250}}/>
                 {/* <span
                   className="video-card-two__box-btn video-popup"
                   onClick={() => setOpen(true)}

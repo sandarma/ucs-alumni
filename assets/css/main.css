@@ -1380,11 +1380,17 @@
 .featured-cause .inner-container {
   background-repeat: no-repeat;
   background-position: top right;
-  background-image: url(../images/shapes/featured-cause-bg-1-1.png);
-  border-top-left-radius: 15px;
-  border-top-right-radius: 15px;
+  /* background-image: url(../images/shapes/featured-cause-bg-1-1.png); */
+  /* border-top-left-radius: 15px;
+  border-top-right-radius: 15px; */
   padding-right: 60px;
   overflow: hidden;
+  background-color: #01729a;
+}
+
+.featured-cause .inner-container .imgWrap {
+  display: flex;
+  justify-content: center;
 }
 
 @media (max-width: 991px) {
@@ -1417,6 +1423,8 @@
 .featured-cause .my-auto {
   width: 100%;
   padding-left: 20px;
+  /* padding-top: 20px;
+  padding-bottom: 20px; */
 }
 
 @media (max-width: 991px) {
@@ -1874,6 +1882,8 @@ h6 {
   color: #fff;
   border-bottom-left-radius: 31.5px;
   border-top-left-radius: 31.5px;
+  border-bottom-right-radius: 31.5px;
+  border-top-right-radius: 31.5px;
 }
 
 .thm-btn:hover {

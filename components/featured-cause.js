@@ -1,6 +1,9 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
+import Link from "next/link";
 import springRevolutionMyanamr from "../assets/images/Spring-Revolution-Cover.jpg";
+import ucsFsFbCover from "../assets/images/UCSFS-fb-cover.jpeg";
+import logoUCS from "../assets/images/UCS-Financial-Support-Icon.jpeg";
 
 const FeaturedCause = () => {
   return (
@@ -8,8 +11,8 @@ const FeaturedCause = () => {
       <Container>
         <div className="inner-container background-secondary ">
           <Row>
-            <Col lg={4}>
-              <img src={springRevolutionMyanamr} className="img-fluid" alt="" />
+            <Col lg={4} className="imgWrap">
+              <img src={logoUCS} className="img-fluid" alt="" />
             </Col>
             <Col lg={8} className=" d-flex">
               <div className="my-auto">
@@ -34,6 +37,11 @@ const FeaturedCause = () => {
                     </p>
                   </div>
                 </div>
+                <div className="btn-wrap" style={{paddingTop: 20}}>
+                <Link href="#">
+                  <a className="scroll-to-target thm-btn">Donate Now</a>
+                </Link>
+              </div>
               </div>
             </Col>
           </Row>

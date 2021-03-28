@@ -28,9 +28,9 @@ const HomeOne = () => {
       <MainSlider /> */}
       <br/>
       <FeaturedCause />
-      <br/>
-      {/* <VideoCardTwo />      
-      <ServiceOne />      
+      <VideoCardTwo />
+      <br/>      
+      {/* <ServiceOne />      
       <AboutCounter />
       <CausesHome />
       <CallToActionTwo />

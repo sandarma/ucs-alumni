@@ -27,10 +27,10 @@ const FeaturedCause = () => {
                   </div>
                   <div className="cause-card__goals">
                     <p>
-                      <strong>Raised:</strong> $35,000,000
+                      <strong>Raised:</strong> Kyats 35,000,000
                     </p>
                     <p>
-                      <strong>Goal:</strong> $70,000,000
+                      <strong>Goal:</strong> Kyats 70,000,000
                     </p>
                   </div>
                 </div>

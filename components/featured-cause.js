@@ -38,7 +38,7 @@ const FeaturedCause = () => {
                   </div>
                 </div>
                 <div className="btn-wrap" style={{paddingTop: 20}}>
-                <Link href="#">
+                <Link href="https://www.facebook.com/FinancialSupportUCS2021">
                   <a className="scroll-to-target thm-btn">Donate Now</a>
                 </Link>
               </div>

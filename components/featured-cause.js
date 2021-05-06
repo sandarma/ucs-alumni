@@ -11,10 +11,10 @@ const FeaturedCause = () => {
       <Container>
         <div className="inner-container background-secondary ">
           <Row>
-            <Col lg={4} className="imgWrap">
-              <img src={logoUCS} className="img-fluid" alt="" />
-            </Col>
-            <Col lg={8} className=" d-flex">
+            {/* <Col lg={4} className="imgWrap"> */}
+              {/* <img src={logoUCS} className="img-fluid" alt="" /> */}
+            {/* </Col> */}
+            <Col lg={12} className=" d-flex">
               <div className="my-auto">
                 <h3>Urgent help needed now </h3>
                 <p>

@@ -4,6 +4,9 @@ import { Container, Row, Col } from "react-bootstrap";
 import bgImage from "../../assets/images/backgrounds/page-header-1-1.jpg";
 import HeartImage from "../../assets/images/shapes/heart-2-1.png";
 
+import logoUCS from "../../assets/images/UCS-Financial-Support-Icon.jpeg";
+import IMG_6792 from "../../assets/images/IMG_6792.jpeg";
+
 const CallToActionTwo = () => {
   return (
     <section className="call-to-action-two">
@@ -18,10 +21,10 @@ const CallToActionTwo = () => {
             <div className="block-title">
               <p>
                 <img src={HeartImage} width="15" alt="" />
-                Help Other People
+                Help Our People
               </p>
               <h3>
-                Our fingerprints on <br /> the lives we touch <br /> never fade.
+                Lend the <br /> helping hand <br /> get involved
               </h3>
             </div>
           </Col>
@@ -31,7 +34,7 @@ const CallToActionTwo = () => {
           >
             <div className="btn-wrap">
               <Link href="#">
-                <a className="scroll-to-target thm-btn">Start Donating</a>
+                <a className="scroll-to-target thm-btn">Donate Now</a>
               </Link>
             </div>
           </Col>

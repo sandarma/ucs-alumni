@@ -4139,7 +4139,7 @@ h6 {
 @media (min-width: 768px) {
   .blog-details h3 {
     font-size: 36px;
-    margin-bottom: 35px;
+    margin-bottom: 25px;
   }
 }
 
@@ -6555,7 +6555,8 @@ h6 {
   left: 15px;
   width: 120px;
   height: 140px;
-  background-color: var(--thm-primary);
+  /* background-color: var(--thm-primary); */
+  background-color: #01729a;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

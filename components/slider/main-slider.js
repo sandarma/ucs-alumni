@@ -43,7 +43,7 @@ const MainSlider = () => {
                   data-target=".donate-options"
                   className="scroll-to-target thm-btn"
                 >
-                  Start Donating
+                  Donate Now
                 </a>
               </Col>
             </Row>
@@ -68,7 +68,7 @@ const MainSlider = () => {
                   data-target=".donate-options"
                   className="scroll-to-target thm-btn "
                 >
-                  Start Donating
+                  Donate Now
                 </a>
               </Col>
             </Row>
@@ -92,7 +92,7 @@ const MainSlider = () => {
                   data-target=".donate-options"
                   className="scroll-to-target thm-btn "
                 >
-                  Start Donating
+                  Donate Now
                 </a>
               </Col>
             </Row>

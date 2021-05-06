@@ -45,7 +45,7 @@ const HomeOne = () => {
         <Row style={{marginBottom: 20}}>
           <Col md={12}>
             <h3>What CDM is:</h3>
-            <p>Civilian workers including healthcare professionals, teachers, engineers, railway workers and civil servants of all various sectors have been participating in a nationwide labour strike by the name of <b>Civil Disobedience Movement (CDM)</b>. These workers have been hanging by a thread without any type of income since the coup took place and bravely refused to return to work in a defiance against the regime even though their lives have been threatened. Families have been evicted from their homes for participating in CDM, and many have lost their loved ones who were bread winners.</p>
+            <p>Civilian employees including healthcare professionals, teachers, engineers, railway workers and civil servants of all various sectors have been participating in a nationwide labour strike by the name of <b>Civil Disobedience Movement (CDM)</b>. These workers have been hanging by a thread without any type of income since the coup took place and bravely refused to return to work in a defiance against the regime even though their lives have been threatened. Families have been evicted from their homes for participating in CDM, and many have lost their loved ones who were bread winners.</p>
           </Col>
         </Row>
         <Row style={{marginBottom: 20}}>

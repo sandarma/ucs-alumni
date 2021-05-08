@@ -4,15 +4,14 @@ import { Container, Row, Col } from "react-bootstrap";
 import bgImage from "../../assets/images/backgrounds/page-header-1-1.jpg";
 import HeartImage from "../../assets/images/shapes/heart-2-1.png";
 
-import logoUCS from "../../assets/images/UCS-Financial-Support-Icon.jpeg";
-import IMG_6792 from "../../assets/images/IMG_6792.jpeg";
+import cdmBanner from "../../assets/images/CDM-Banner.jpeg";
 
 const CallToActionTwo = () => {
   return (
     <section className="call-to-action-two">
       <div
         className="call-to-action-two__bg"
-        style={{ backgroundImage: `url(${bgImage})` }}
+        style={{ backgroundImage: `url(${cdmBanner})` }}
       ></div>
       <Container className="container pt-80 pb-80">
         <i className="azino-icon-charity call-to-action-two__icon"></i>
@@ -33,7 +32,7 @@ const CallToActionTwo = () => {
             className=" d-flex justify-content-start justify-content-lg-end"
           >
             <div className="btn-wrap">
-              <Link href="#">
+              <Link href="https://userroll.com/myanmarcdm">
                 <a className="scroll-to-target thm-btn">Donate Now</a>
               </Link>
             </div>

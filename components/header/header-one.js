@@ -69,7 +69,7 @@ const HeaderOne = () => {
               className="d-none d-md-none d-lg-none d-xl-block"
             >
               <div className="main-header__top">
-                <p>Welcome To University of Computer Studies - Alumni</p>
+                <p>Welcome To Financial Support - UCS</p>
                 {/* <div className="main-header__social">
                   <a href="#" aria-label="twitter">
                     <i className="fab fa-twitter"></i>

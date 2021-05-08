@@ -37,7 +37,7 @@ const VideoCardTwo = () => {
               </div>
             </Col>
             <Col lg={4}>
-              <h3>Financial Support <br/>University of Computer Studies</h3>
+              <h3>Financial Support <br/>UCS</h3>
             </Col>
             <Col lg={5}>
               <p>

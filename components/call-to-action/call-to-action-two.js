@@ -4,14 +4,14 @@ import { Container, Row, Col } from "react-bootstrap";
 import bgImage from "../../assets/images/backgrounds/page-header-1-1.jpg";
 import HeartImage from "../../assets/images/shapes/heart-2-1.png";
 
-import cdmBanner from "../../assets/images/CDM-Banner.jpeg";
+import cdmHandBanner from "../../assets/images/CDM-Hand-Banner.jpeg";
 
 const CallToActionTwo = () => {
   return (
     <section className="call-to-action-two">
       <div
         className="call-to-action-two__bg"
-        style={{ backgroundImage: `url(${cdmBanner})` }}
+        style={{ backgroundImage: `url(${cdmHandBanner})` }}
       ></div>
       <Container className="container pt-80 pb-80">
         <i className="azino-icon-charity call-to-action-two__icon"></i>

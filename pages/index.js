@@ -60,7 +60,8 @@ const HomeOne = () => {
             <p><span style={{color: 'red', fontWeight: 'bold'}}>We can’t effort to go back to the dictatorship after living under them for almost 60 years!</span> <br />Please help us by donating to our fundraiser organized by UCS FS through the link below. The funds raised by your generosity from this campaign will be distributed to participants of CDM in terms of food, shelter, and allotted monthly amounts.<br/>
             The people of Myanmar desperately need your help and any amount helps!</p>
             <p>
-              <Link href="https://userroll.com/myanmarcdm">
+              <Link href="https://www.userroll.com/site/register/t201jaf"> 
+              {/* https://userroll.com/myanmarcdm */}
                 <a className="scroll-to-target thm-btn">Donate Now</a>
               </Link>
             </p>

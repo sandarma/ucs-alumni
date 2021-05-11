@@ -63,7 +63,8 @@ const HomeOne = () => {
             <p>Not knowing how much longer this fight will take but <b>Civil Disobedience Movement</b> participants are absolutely relentless in their fight for democracy and justice. People are impacted by the mounting financial burden of not being able to earn wages from working. Their bravery and sacrifice are praised globally and have recently been nominated for the Nobel Peace Prize for next year. There is incredible strength of the solidarity of the Myanmar people and we urge all our citizens worldwide to join us in this historic fight. We ask for your much-needed support to assist these courageous people of Myanmar participating in CDM in an <b>effort to restore democracy</b>.</p>
             <br/>
             <span style={{fontSize: 14}}>
-
+            “ထောက်ပံ့ခြင်းဖြင့် တိုက်ပွဲဝင်ပါ”<br/>
+            မြန်မာနိုင်ငံ၏ အနာဂတ်၊ နောင်လာနောင်သား မျိုးဆက်များ၏ အနာဂတ်တို့ အတွက် ရဲရင့်ပြတ်သားစွာ ကိုယ်ကျိုးစွန့် တိုက်ပွဲဝင်နေသော ပြည်သူ့ဝန်ထမ်းများအား ဝန်းရံပေးရမည်မှာ စစ်အာဏာရှင်ကို ဆန့်ရှင်သော မြန်မာနိုင်ငံသားတိုင်း၏ တာဝန်ဖြစ်သည်။ အကြမ်းမဖက် ပြည်သူ့ အာဏာဖီဆန်မှုတွင် ပါဝင်နေသော မြန်မာ့သူရဲကောင်းတို့ကို မြန်မာနိုင်ငံသားများသာမက ကမ္ဘာကပါ အသိအမှတ်ပြုပြီး နိုဘယ်ငြိမ်းချမ်းရေးဆုအတွက် ရွေးချယ်ရန် စာရင်းတင်သွင်းခံခဲ့ရပါသည်။ ဒီမိုကရေစီရရှိရေး၊ စစ်အာဏာရှင်လက်အောက်မှ လွတ်မြှောက်ရေး၊ တိုင်းပြည်ပြန်လည်ထူထောင်ရေးတို့တွင် အဓိက မန္ဒိုင်ဖြစ်သော ရဲရဲတောက်စွန့်စွားတိုက်ပွဲဝင်နေသည့် သူရဲကောင်းများ၏ စားဝတ်နေရေး၊ ဘဝလုံခြုံရေး၊ စစ်အာဏာရှင် ကျဆုံးသည် အထိဆက်လက်တိုက်ပွဲတင်နိုင်ရေးတို့အတွက် တပိုင်တနိုင် ငွေအားဖြင့် ထောက်ပံ့လှူဒါန်းခြင်းဖြင့် UCS FS နဲ့ အတူ တိုက်ပွဲဝင်ပါ။
             </span>
           </Col>
         </Row>
@@ -74,7 +75,12 @@ const HomeOne = () => {
             The people of Myanmar desperately need your help and any amount helps!</p>
             <br/>
             <span style={{fontSize: 14}}>
-
+            “ပြိုင်တူတွန်းလျှင် ရွှေ့နိုင်ပါသည်”<br/>
+            စစ်အာဏာရှင်ကျဆုံးရေး …. ဒို့အရေး - ဒို့အရေး<br/>
+            ဒီမိုကရေစီ ရရှိရေး ………… ဒို့အရေး - ဒို့အရေး<br/>
+            ဒီမိုကရေစီ ရရှိရေး ………… ဒို့အရေး - ဒို့အရေး<br/>
+            ကောက်ခံရရှိငွေများအား အကြမ်းမဖက်အာဏာ ဖီဆန်မှု့လှုပ်ရှားမှုတွင် ပါဝင်တိုက်ပွဲဝင်နေသော ဝန်ထမ်းနှင့် မိသားစုများအတွက် အစားအစာ၊ အိမ်ယာနှင့် လစဥ်ထောက်ပံ့ငွေပေးခြင်းဖြင့် ကူညီသွားမည် ဖြစ်ပါသည်။<br/>
+            “ငွေအင်အား ပါဝင်ထောက်ပံ့ခြင်းဖြင့် သင်လည်း တိုက်ပွဲဝင်ပါ”
             </span>
             <p>
               <Link href="https://www.userroll.com/site/register/t201jaf"> 

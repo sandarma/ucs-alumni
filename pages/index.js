@@ -91,7 +91,9 @@ const HomeOne = () => {
             <p>
             With cordial support from Burmese Community Development Collaboration (BCDC), the funds will be collected through the existing BCDC platform, and you will receive the payment confirmation email from BCDC.
             <br/>
+            <span style={{fontSize: 14}}>
             လှူဒါန်းငွေများကို ဩစတြေးလျနိုင်ငံ မြန်မာဖွံ့ဖြိုးရေးပူးပေါင်းဆောင်ရွက်မှု အသင်း (Burmese Community Development Collaboration - BCDC) မှ တဆင့် ကောက်ခံမှာ ဖြစ်ပြီး BCDC မှ လက်ခံ ရရှိကြောင်း ဖြတ်ပိုင်းကို email ဖြင့် ပေးပို့မှာ ဖြစ်ပါတယ်။
+            </span>
             </p>
             <p>
               <Link href="https://www.userroll.com/site/register/t201jaf"> 

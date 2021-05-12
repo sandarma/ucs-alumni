@@ -41,7 +41,7 @@ const HomeOne = () => {
             On February 1st 2021, a military coup violently took over the democratically elected government of Myanmar, detained all of its leaders and denied the voices of over 40 million Myanmar people. In just 3 months, over <span style={{color: 'red', fontWeight: 'bold'}}>750 people have been killed</span> including peaceful protestors and dozens of children, and over 3000 people have been arbitrarily detained and charged with crimes they did not commit. Myanmar is on the brink of a failed state, economy is in a freefall, and civil wars have broken out all throughout the country.
             <br/>
             <span style={{fontSize: 14}}>
-            ဖေဖော်ဝါရီလ (၁)ရက်နေ့တွင် သန်း(၅၀)ကျော် မြန်မာနိုင်ငံသူ နိုင်ငံသားများက ဒီမိုကရေစီနည်းလမ်းကျန်စွာ ရွေးချယ်တင်မြှောက်ခဲ့တဲ့ အစိုးရကို စစ်အာဏာရှင်အကြမ်းဖက်သမားများက အဓမ္မအာဏာသိမ်းယူပြီး နိုင်ငံဦးရှောင် ဒေါ်အောင်ဆန်းစုကြည်နှင့်တကွ ပြည်သူ့ခေါင်းဆောင်များကို ဖမ်းဆီထားခဲ့ပါသည်။ ငြိမ်းချမ်းစွာ စစ်အာရှင်ဖြုတ်ချရေးအတွက် ဆန္ဒထုတ်ဖော်ပြသသူများထဲမှ ကလေးသူငယ်ပါမကျန် လက်နက်မဲ့လူပေါင်း(၇၅၀)ကျော်ကို ရက်စက်စွာ သတ်ဖြတ်ခဲ့ပြီး၊ အပြစ်မဲ့ ပြည်သူပေါင်း(၃၀၀၀)ကျော်ကို မတရားညှင်းပန်းနှိပ်စက်ဖမ်းဆီးခဲ့ပါသည်။ လင်းရောင်ခြည် ရလုလုဖြစ်ခဲ့သော မြန်မာ့နိုင်ငံရေး၊ စီးပွားရေး ကဏ္ဍပေါင်းစုံမှ ချောက်ကမ်းပါးထဲကျလုလုကျခင် ဖြစ်ခဲ့ရပေပြီ။
+            ဖေဖော်ဝါရီလ (၁)ရက်နေ့တွင် သန်း(၅၀)ကျော် မြန်မာနိုင်ငံသူ နိုင်ငံသားများက ဒီမိုကရေစီနည်းလမ်းကျနစွာ ရွေးချယ်တင်မြှောက်ခဲ့တဲ့ အစိုးရကို စစ်အာဏာရှင်အကြမ်းဖက်သမားများက အဓမ္မအာဏာသိမ်းယူပြီး နိုင်ငံဥသျှောင် ဒေါ်အောင်ဆန်းစုကြည်နှင့်တကွ ပြည်သူ့ခေါင်းဆောင်များကို ဖမ်းဆီထားခဲ့ပါသည်။ ငြိမ်းချမ်းစွာ စစ်အာရှင်ဖြုတ်ချရေးအတွက် ဆန္ဒထုတ်ဖော်ပြသသူများထဲမှ ကလေးသူငယ်ပါမကျန် လက်နက်မဲ့လူပေါင်း(၇၅၀)ကျော်ကို ရက်စက်စွာ သတ်ဖြတ်ခဲ့ပြီး၊ အပြစ်မဲ့ ပြည်သူပေါင်း(၃၀၀၀)ကျော်ကို မတရားညှင်းပန်းနှိပ်စက်ဖမ်းဆီးခဲ့ပါသည်။ လင်းရောင်ခြည် ရလုလုဖြစ်ခဲ့သော မြန်မာ့နိုင်ငံရေး၊ စီးပွားရေး ကဏ္ဍပေါင်းစုံမှာ ချောက်ကမ်းပါးထဲကျလုကျခင် ဖြစ်ခဲ့ရပေပြီ။
             </span>
             </p>
           </Col>
@@ -64,7 +64,7 @@ const HomeOne = () => {
             <br/>
             <span style={{fontSize: 14}}>
             “ထောက်ပံ့ခြင်းဖြင့် တိုက်ပွဲဝင်ပါ”<br/>
-            မြန်မာနိုင်ငံ၏ အနာဂတ်၊ နောင်လာနောင်သား မျိုးဆက်များ၏ အနာဂတ်တို့ အတွက် ရဲရင့်ပြတ်သားစွာ ကိုယ်ကျိုးစွန့် တိုက်ပွဲဝင်နေသော ပြည်သူ့ဝန်ထမ်းများအား ဝန်းရံပေးရမည်မှာ စစ်အာဏာရှင်ကို ဆန့်ရှင်သော မြန်မာနိုင်ငံသားတိုင်း၏ တာဝန်ဖြစ်သည်။ အကြမ်းမဖက် ပြည်သူ့ အာဏာဖီဆန်မှုတွင် ပါဝင်နေသော မြန်မာ့သူရဲကောင်းတို့ကို မြန်မာနိုင်ငံသားများသာမက ကမ္ဘာကပါ အသိအမှတ်ပြုပြီး နိုဘယ်ငြိမ်းချမ်းရေးဆုအတွက် ရွေးချယ်ရန် စာရင်းတင်သွင်းခံခဲ့ရပါသည်။ ဒီမိုကရေစီရရှိရေး၊ စစ်အာဏာရှင်လက်အောက်မှ လွတ်မြှောက်ရေး၊ တိုင်းပြည်ပြန်လည်ထူထောင်ရေးတို့တွင် အဓိက မန္ဒိုင်ဖြစ်သော ရဲရဲတောက်စွန့်စွားတိုက်ပွဲဝင်နေသည့် သူရဲကောင်းများ၏ စားဝတ်နေရေး၊ ဘဝလုံခြုံရေး၊ စစ်အာဏာရှင် ကျဆုံးသည် အထိဆက်လက်တိုက်ပွဲတင်နိုင်ရေးတို့အတွက် တပိုင်တနိုင် ငွေအားဖြင့် ထောက်ပံ့လှူဒါန်းခြင်းဖြင့် UCS FS နဲ့ အတူ တိုက်ပွဲဝင်ပါ။
+            မြန်မာနိုင်ငံ၏ အနာဂတ်၊ နောင်လာနောင်သား မျိုးဆက်များ၏ အနာဂတ်တို့ အတွက် ရဲရင့်ပြတ်သားစွာ ကိုယ်ကျိုးစွန့် တိုက်ပွဲဝင်နေသော ပြည်သူ့ဝန်ထမ်းများအား ဝန်းရံပေးရမည်မှာ စစ်အာဏာရှင်ကို ဆန့်ကျင်သော မြန်မာနိုင်ငံသားတိုင်း၏ တာဝန်ဖြစ်သည်။ အကြမ်းမဖက် ပြည်သူ့ အာဏာဖီဆန်မှုတွင် ပါဝင်နေသော မြန်မာ့သူရဲကောင်းတို့ကို မြန်မာနိုင်ငံသားများသာမက ကမ္ဘာကပါ အသိအမှတ်ပြုပြီး နိုဘယ်ငြိမ်းချမ်းရေးဆုအတွက် ရွေးချယ်ရန် စာရင်းတင်သွင်းခံခဲ့ရပါသည်။ ဒီမိုကရေစီရရှိရေး၊ စစ်အာဏာရှင်လက်အောက်မှ လွတ်မြှောက်ရေး၊ တိုင်းပြည်ပြန်လည်ထူထောင်ရေးတို့တွင် အဓိက မဏ္ဍိုင်ဖြစ်သော ရဲရဲတောက်စွန့်စွားတိုက်ပွဲဝင်နေသည့် သူရဲကောင်းများ၏ စားဝတ်နေရေး၊ ဘဝလုံခြုံရေး၊ စစ်အာဏာရှင် ကျဆုံးသည် အထိဆက်လက်တိုက်ပွဲ၀င်နိုင်ရေးတို့အတွက် တပိုင်တနိုင် ငွေအားဖြင့် ထောက်ပံ့လှူဒါန်းခြင်းဖြင့် UCS FS နဲ့ အတူ တိုက်ပွဲဝင်ပါ။
             </span>
             </p>
           </Col>
@@ -72,7 +72,7 @@ const HomeOne = () => {
         <Row style={{marginBottom: 20}}>
           <Col md={12}>
             <h3>Why Donate:</h3>
-            <p><span style={{color: 'red', fontWeight: 'bold'}}>We can’t effort to go back to the dictatorship after living under them for almost 60 years!</span> <br />Please help us by donating to our fundraiser organized by UCS FS through the link below. The funds raised by your generosity from this campaign will be distributed to participants of CDM in terms of food, shelter, and allotted monthly amounts.<br/>
+            <p><span style={{color: 'red', fontWeight: 'bold'}}>We can’t effort to go back to the dictatorship after living under them for almost 60 years!</span> <br />Please help us by donating to our fundraiser organized by UCS FS through the link below. The funds raised by your generosity from this campaign will be distributed to participants of CDM in terms of food, shelter, and allotted amounts.<br/>
             The people of Myanmar desperately need your help and any amount helps!
             <br/>
             <span style={{fontSize: 14}}>
@@ -80,9 +80,18 @@ const HomeOne = () => {
             စစ်အာဏာရှင်ကျဆုံးရေး …. ဒို့အရေး - ဒို့အရေး<br/>
             ဒီမိုကရေစီ ရရှိရေး ………… ဒို့အရေး - ဒို့အရေး<br/>
             ဒီမိုကရေစီ ရရှိရေး ………… ဒို့အရေး - ဒို့အရေး<br/>
-            ကောက်ခံရရှိငွေများအား အကြမ်းမဖက်အာဏာ ဖီဆန်မှု့လှုပ်ရှားမှုတွင် ပါဝင်တိုက်ပွဲဝင်နေသော ဝန်ထမ်းနှင့် မိသားစုများအတွက် အစားအစာ၊ အိမ်ယာနှင့် လစဥ်ထောက်ပံ့ငွေပေးခြင်းဖြင့် ကူညီသွားမည် ဖြစ်ပါသည်။<br/>
+            ကောက်ခံရရှိငွေများအား အကြမ်းမဖက်အာဏာ ဖီဆန်မှု့လှုပ်ရှားမှုတွင် ပါဝင်တိုက်ပွဲဝင်နေသော ဝန်ထမ်းနှင့် မိသားစုများအတွက် အစားအစာ၊ အိမ်ယာနှင့် ထောက်ပံ့ငွေပေးခြင်းဖြင့် ကူညီသွားမည် ဖြစ်ပါသည်။<br/>
             “ငွေအင်အား ပါဝင်ထောက်ပံ့ခြင်းဖြင့် သင်လည်း တိုက်ပွဲဝင်ပါ”
             </span>
+            </p>
+          </Col>
+        </Row>
+        <Row style={{marginBottom: 20}}>
+          <Col md={12}>
+            <p>
+            With cordial support from Burmese Community Development Collaboration (BCDC), the funds will be collected through the existing BCDC platform, and you will receive the payment confirmation email from BCDC.
+            <br/>
+            လှူဒါန်းငွေများကို ဩစတြေးလျနိုင်ငံ မြန်မာဖွံ့ဖြိုးရေးပူးပေါင်းဆောင်ရွက်မှု အသင်း (Burmese Community Development Collaboration - BCDC) မှ တဆင့် ကောက်ခံမှာ ဖြစ်ပြီး BCDC မှ လက်ခံ ရရှိကြောင်း ဖြတ်ပိုင်းကို email ဖြင့် ပေးပို့မှာ ဖြစ်ပါတယ်။
             </p>
             <p>
               <Link href="https://www.userroll.com/site/register/t201jaf"> 

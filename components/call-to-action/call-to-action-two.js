@@ -37,7 +37,7 @@ const CallToActionTwo = () => {
                 <a className="scroll-to-target thm-btn">Donate Now</a>
               </Link>
               <br/>
-              in partnership with <a href="http://bcdcaustralia.org.au/" target="_blank">BCDC</a>
+              <h6 style={{marginTop: 10, color: "#FFF", letterSpacing: "0.04em", fontWeight: 'bold'}}>in partnership with <a href="http://bcdcaustralia.org.au/" target="_blank">BCDC</a></h6>
             </div>
           </Col>
         </Row>

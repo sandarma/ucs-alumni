@@ -36,6 +36,8 @@ const CallToActionTwo = () => {
               {/* https://userroll.com/myanmarcdm */}
                 <a className="scroll-to-target thm-btn">Donate Now</a>
               </Link>
+              <br/>
+              in partnership with <a href="http://bcdcaustralia.org.au/" target="_blank">BCDC</a>
             </div>
           </Col>
         </Row>

@@ -32,6 +32,13 @@ const HomeOne = () => {
       {/* <FeaturedCause /> */}
       <CallToActionTwo />
 
+      <div className="block-title">
+      <p>
+        <img src={blockTitleHeart} width="15" alt="" />
+        For Singapore Donors, due to regulatory requirements, you cannot use “Pay with PayPal” option. Please use “Pay with Stripe”. Sorry for the inconvenience.
+      </p>
+      </div>
+
       <section className="cause-details blog-details  pt-20 pb-20">
       <Container>
         <Row style={{marginBottom: 20}}>
@@ -49,7 +56,7 @@ const HomeOne = () => {
         <Row style={{marginBottom: 20}}>
           <Col md={12}>
             <h3>What CDM is:</h3>
-            <p>Civilian employees including healthcare professionals, teachers, engineers, railway workers and civil servants of all various sectors have been participating in a nationwide labour strike by the name of <b>Civil Disobedience Movement (CDM)</b>. These workers have been hanging by a thread without any type of income since the coup took place and bravely refused to return to work in a defiance against the regime even though their lives have been threatened. Families have been evicted from their homes for participating in CDM, and many have lost their loved ones who were bread winners.
+            <p>Civilian employees including healthcare professionals, teachers, engineers, railway workers and civil servants of all various sectors have been participating in a nationwide labour strike by the name of <b>Civil Disobedience Movement (CDM)</b>. These workers have been hanging by a thread without any type of income since the coup took place and bravely refused to return to work in a defiance against the regime even though their lives have been threatened. Families have been evicted from their homes for participating in CDM, and many have lost their loved ones who were breadwinners.
             <br/>
             <span style={{fontSize: 14}}>
             အကြမ်းမဖက်ပြည်သူအာဏာဖီဆန်မှု (Civil Disobedience Movement) စစ်အာဏာရှင်အုပ်ချုပ်မှု့ကို မထောက်ပံ့၊ မနာခံနိုင်မှုကို သန္ဓေတည်ကာ ပြည်သူ့ဝန်ထမ်းများဖြစ်ကြသော ကျန်းမာရေး၊ ပညာရေး၊ လမ်းတံတား၊ မီးရထား၊ ဆက်သွယ်ရေးနှင့် ဌာန သီးသီးမှ ဝန်ထမ်းများက အကြမ်းမဖက်ပြည်သူ့အာဏာဖီဆန်မှု လှုပ်ရှားမှု့ (Civil Disobedience Movement) စတင်ခဲ့ကြပါသည်။ ယနေ့တွင် ယင်းလှုပ်ရှားမှုတွင်ပါဝင်နေသာ ဝန်ထမ်းများ၏ ဘဝပေါင်းများစွာမှာ အာဏာရှင်များရဲ့ ခြိမ်းခြောက်မှု၊ ဖမ်းဆီးမှု၊ အိမ်ယာမဲ့မှု့၊ လခဖြတ်တောက်ခံရမှု့များနှင့် ရင်ဆိုင်နေရသော်လည်း၊ အခက်အခဲများစွာကြားမှ မလျှော့သောဇွဲဖြင့် တိုက်ပွဲဝင်နေသော သူရဲကောင်းများဖြစ်ပါသည်။ စစ်အာဏာရှင်ကျဆုံးရေး လုပ်ရှားမှုတွင် အကြမ်းမဖက် အာဏာဖီဆန်မှု့မှာ လွန်စွာထိရောက်နေပြီး၊ လက်ရှိစစ်ကောင်စီကို အကျပ်ရိုက်နေစေသော စစ်အာဏာရှင်ကို လက်မခံမှုကို ပြတ်သားစွာ ပြသနိုင်သော လှုပ်ရှားမှုဖြစ်ပါသည်။

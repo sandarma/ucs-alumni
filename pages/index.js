@@ -32,16 +32,14 @@ const HomeOne = () => {
       {/* <FeaturedCause /> */}
       <CallToActionTwo />
 
-      <div className="block-title">
-      <p>
-        <img src={blockTitleHeart} width="15" alt="" />
-        For Singapore Donors, due to regulatory requirements, you cannot use “Pay with PayPal” option. Please use “Pay with Stripe”. Sorry for the inconvenience.
-      </p>
-      </div>
-
       <section className="cause-details blog-details  pt-20 pb-20">
       <Container>
         <Row style={{marginBottom: 20}}>
+          <Col md={12} className="block-title">
+            <p>
+            For Singapore Donors, due to regulatory requirements, you cannot use “Pay with PayPal” option. Please use “Pay with Stripe”. Sorry for the inconvenience.
+            </p>
+          </Col>
           <Col md={12}>
             <h3>Background:</h3>
             <p>

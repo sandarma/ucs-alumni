@@ -27,12 +27,12 @@ const HeroFromUcsContent = () => {
                 <p>
                 While you are supporting <b>over 4000 hero</b> participating in <b>Civil Disobedience Movement (CDM)</b> from various ministries, schools, universities, and government sectors, we know you want your contributions to reach directly to your teachers, co-workers, and friends from University of Computer Science who bravely and courageously sacrifice their lives and their future for democracy, and justices.
                 </p>
-                <h3 style={{marginTop: 15, marginBottom: 15}}>If not now, when?</h3>
+                <h3 style={{marginTop: 25, marginBottom: 25}}>If not now, when?</h3>
                 <p>
-                <b>Now</b> is the time and opportunity to show that you are fighting with them for the <b>liberation, justices and democracy</b> by making the financial contributions to support UCS CDM participants. UCS Hero are the pillars of the government, future of the technology, and the gardeners of the next generations. We want to ensure all good causes and efforts are for the democratic government and justices, not for the dictatorship and their supporters.<br/>
-                <span style={{color: 'red', fontWeight: 'bold'}}>Now is the time to support our UCS CDM Hero!</span>
+                <b>Now</b> is the time and opportunity to show that you are fighting with them for the <b>liberation, justices and democracy</b> by making the financial contributions to support UCS CDM participants. UCS Hero are the pillars of the government, future of the technology, and the gardeners of the next generations. We want to ensure all good causes and efforts are for the democratic government and justices, not for the dictatorship and their supporters.
+                <br/><span style={{color: 'red', fontWeight: 'bold'}}>Now is the time to support our UCS CDM Hero!</span>
                 </p>
-                <h3 style={{marginTop: 15, marginBottom: 15}}>Do you know?</h3>
+                <h3 style={{marginTop: 25, marginBottom: 25}}>Do you know?</h3>
                 <p>
                 UCS FS group is supporting over <b>300</b> CDM participants from 29 Computer Science Universities throughout the country. Many of them lost their jobs, and they are in hiding. Not knowing how much longer this fight will go on but UCS CDM participants are absolutely relentless in their fight for democracy and justice. People are impacted by the mounting financial burden of not being able to earn wages from working. There is an incredible strength of the solidarity of our people, and we urge all our UCS alumni and supporters worldwide to join us in this historic fight.
                 </p>

@@ -23,7 +23,7 @@ const CallToActionThree = () => {
                 Lend the helping hand get involved
               </p>
               <h3>
-                Help our <br /> hero from <br /> UCS
+                Help our <br /> heros from <br /> UCS
               </h3>
             </div>
           </Col>
@@ -32,7 +32,7 @@ const CallToActionThree = () => {
             className=" d-flex justify-content-start justify-content-lg-end"
           >
             <div className="btn-wrap">
-              <Link href="https://www.userroll.com/site/register/t201jaf"> 
+              <Link href="https://userroll.com/heros-from-ucs"> 
               {/* https://userroll.com/myanmarcdm */}
                 <a className="scroll-to-target thm-btn">Donate Now</a>
               </Link>

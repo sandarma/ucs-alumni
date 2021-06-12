@@ -23,7 +23,7 @@ const CallToActionThree = () => {
                 Lend the helping hand get involved
               </p>
               <h3>
-                Help our <br /> heros from <br /> UCS
+                Help our <br /> heroes from <br /> UCS
               </h3>
             </div>
           </Col>

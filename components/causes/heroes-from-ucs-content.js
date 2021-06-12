@@ -38,11 +38,11 @@ const HeroesFromUcsContent = () => {
                 </p>
                 <h3 style={{marginTop: 25, marginBottom: 25, color: 'red'}}>Make a difference!</h3>
                 <p>Fight with us for a brighter future for you, your family, your next generations and people of Myanmar (Burma) with our dear teachers, colleagues and friends!  
-                <br/>Click <a href="https://userroll.com/heroes-from-ucs">here</a> to donate. Funds raised by your generosity from this campaign will be distributed to only the CDM participants from University of Computer Science in terms of food, shelter, and allotted monthly amounts.
+                <br/>Click <a href="https://www.userroll.com/site/register/n210bom">here</a> to donate. Funds raised by your generosity from this campaign will be distributed to only the CDM participants from University of Computer Science in terms of food, shelter, and allotted monthly amounts.
                 <br/><span style={{color: 'red', fontWeight: 'bold'}}>You can make a difference!</span></p>
                 <p style={{fontSize: 16}}>In association with <a href="http://bcdcaustralia.org.au/" target="_link">Burmese Community Development Collaboration (BCDC)</a>, the funds will be collecting through existing BCDC platform, and you will receive the payment confirmation email from BCDC.</p>
                 <div className="cause-card__bottom">
-                <a href="https://userroll.com/heroes-from-ucs" className="thm-btn dynamic-radius">
+                <a href="https://www.userroll.com/site/register/n210bom" className="thm-btn dynamic-radius">
                     Donate Now
                 </a>
                 </div>

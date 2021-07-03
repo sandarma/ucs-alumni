@@ -32,7 +32,7 @@ const CallToActionTwo = () => {
             className=" d-flex justify-content-start justify-content-lg-end"
           >
             <div className="btn-wrap">
-              <Link href="https://www.userroll.com/site/register/t201jaf"> 
+              <Link href="https://www.userroll.com/site/register/b215jol"> 
               {/* https://userroll.com/myanmarcdm */}
                 <a className="scroll-to-target thm-btn">Donate Now</a>
               </Link>
